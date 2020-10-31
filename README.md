@@ -19,5 +19,5 @@ url
 
 # Scraping
 
-台データオンライン(https://daidata.goraggio.com/)をスクレイピングするプログラムです。
+台データオンライン([https://daidata.goraggio.com/](https://daidata.goraggio.com/))をスクレイピングするプログラムです。
 私的なプロキシを使っていた為そのままでは動きません。
