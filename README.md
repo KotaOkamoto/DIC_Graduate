@@ -9,7 +9,7 @@ Dive into code機械学習コース卒業課題を管理するリポジトリで
 
 卒業発表スライド
 
-url
+[https://www.slideshare.net/secret/hmTbc25qqX1NWB](https://www.slideshare.net/secret/hmTbc25qqX1NWB)
 
 # Simulator
 
